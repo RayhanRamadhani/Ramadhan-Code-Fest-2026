@@ -3,8 +3,8 @@ Langkah-Langkah
 Pastikan kamu sudah install Go di komputermu. Kalau belum, bisa cek go version di terminal.
 1. Clone & Masuk ke Folder
 Ambil reponya dari Git dan masuk ke direktorinya.
-git clone https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/rhan-nyoba-golang.git
-cd rhan-nyoba-golang
+git clone https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026.git
+cd Ramadhan-Code-Fest-2026/rhan-nyoba-golang
 
 2. Siapkan Dependencies
 Kalau di dalam repo ada file go.mod, pastikan semua library yang dibutuhkan sudah terunduh.
